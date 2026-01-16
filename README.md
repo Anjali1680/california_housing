@@ -17,4 +17,4 @@ California Housing dataset (built-in dataset from scikit-learn)
 ## 🚀 How to Run
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/california-housing-price-prediction.git
+git clone https://github.com/Anjali1680/california-housing-price-prediction.git
